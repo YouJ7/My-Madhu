@@ -6,4 +6,8 @@ class payal{
 	int sad(){
 	sop("Madhu deleted");
 	}
+
+	void happy(){
+	sop("Madhu is back");
+	}
 }
