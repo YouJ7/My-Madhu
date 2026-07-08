@@ -4,6 +4,6 @@ class payal{
 	int pay(){}
 
 	int sad(){
-	sop("Madhu deleted");
+	sop("no statement");
 	}
 }
