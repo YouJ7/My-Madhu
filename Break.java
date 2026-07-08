@@ -1,0 +1,27 @@
+
+public class Break{
+	
+	void reasons(){
+		
+		System.out.print("Hi team, I’ll be unavailable for 30 minutes due to Wi-Fi maintenance.
+
+Hi team, I’ll be offline for a while as there’s a power outage in my area.
+
+Hi team, stepping out for some personal work, will be back shortly.
+
+Hi team, I have a doctor’s appointment, will join back soon.
+
+Hi team, facing some internet connectivity issues, will reconnect once it’s stable.
+
+Hi team, I need to attend a quick family errand, will be back in 30 minutes.
+
+Hi team, heading to a nearby service center, will rejoin after that.
+
+Hi team, taking a quick lunch break, will be back shortly.
+
+Hi team, my system is updating/restarting, will rejoin once it’s done.
+
+Hi team, attending another call right now, will be back once it’s over ")
+	}
+}
+
